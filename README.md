@@ -1,4 +1,3 @@
-# Student-Data-Management-Console
 # Student and Teacher Data Management Console
 
 ## Overview
